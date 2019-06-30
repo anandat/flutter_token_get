@@ -20,7 +20,7 @@ description: A new Flutter module to get a token just passing a url email and pa
 # on any other native host app that you embed your Flutter project into.
 version: 1.0.0+1
 author: Atul Anand <atul.dc@gmail.com>
-homepage:
+homepage: https://github.com/anandat/flutter_token_get
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
